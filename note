@@ -1,0 +1,5 @@
+1.  global gọi đc khi viewmodel chứa command đó đc tạo ra
+và command đó có thể đc gọi ở các viewmodel khác
+globalcommand dùng để public command đó với tất cả các viewmodel có trên trang đang load
+còn k dùng globalcommand thì chỉ đc dùng nội bộ trong viewmodel chứa command đó thôi
+2. @command chạy trước @globa-comamnd
